@@ -1,5 +1,5 @@
 [![stratux version](https://img.shields.io/github/tag/jpoirier/stratux.svg?style=flat&label=stratux)](https://github.com/jpoirier/stratux/releases)
-[![Build Status](http://circleci-badges-max.herokuapp.com/img/jpoirier/stratux/master?token=:circle-ci-token)](https://circleci.com/gh/jpoirier/stratux/tree/master)
+[![Build Status](http://circleci-badges-max.herokuapp.com/img/jpoirier/stratux/master?token=:circle-ci-token)](https://circleci.com/gh/jpoirier/stratux/tree/dev-fork)
 [![BSD3 License](http://img.shields.io/badge/license-BSD3-brightgreen.svg)](https://tldrlegal.com/license/bsd-3-clause-license-%28revised%29)
 # stratux (independent development fork)
 RTL-SDR UAT tools

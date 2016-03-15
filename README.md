@@ -1,5 +1,5 @@
-[![stratux version](https://img.shields.io/github/tag/jpoirier/stratux.svg?style=flat&label=stratux)](https://github.com/jpoirier/stratux/releases)
-[![Build Status](http://circleci-badges-max.herokuapp.com/img/jpoirier/stratux/master?token=:circle-ci-token)](https://circleci.com/gh/jpoirier/stratux/tree/dev-fork)
+[![stratux version](https://img.shields.io/github/tag/stratux-fork/stratux.svg?style=flat&label=stratux)](https://github.com/stratux-fork/stratux/releases)
+[![Build Status](http://circleci-badges-max.herokuapp.com/img/stratux-fork/stratux/master?token=:circle-ci-token)](https://circleci.com/gh/stratux-fork/stratux/tree/stratux)
 [![BSD3 License](http://img.shields.io/badge/license-BSD3-brightgreen.svg)](https://tldrlegal.com/license/bsd-3-clause-license-%28revised%29)
 # stratux (independent development fork)
 RTL-SDR UAT tools
@@ -31,8 +31,8 @@ Tested weather/traffic displays:
 * ForeFlight 7+ - weather, traffic, AHRS.
 * Avare
 
-Questions?  [See the FAQ](https://github.com/cyoung/stratux/wiki/FAQ)
+Questions?  [See the FAQ](https://github.com/stratux-fork/stratux/wiki/FAQ)
 
-http://stratux.me/
+http://stratux-fork.me/
 
-https://www.reddit.com/r/stratux
+https://www.reddit.com/r/stratuxfork
